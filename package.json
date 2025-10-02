@@ -11,6 +11,7 @@
   "bugs": {
     "url": "https://github.com/scw-nhs/dcf-design-history/issues"
   },
+  "homepage": "https://scw-nhs.github.io/dcf-design-history/",
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
     "@11ty/eleventy-navigation": "^1.0.4",
