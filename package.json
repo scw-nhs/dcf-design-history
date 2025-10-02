@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scw-nhs/dcf-design-history.git"
+    "url": "https://github.com/scw-nhs/dcf-design-history"
   },
   "author": "Sam Brierley",
   "license": "ISC",
