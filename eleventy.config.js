@@ -5,6 +5,10 @@ export default function(eleventyConfig) {
   // Register NHS.UK plugin
   eleventyConfig.addPlugin(nhsukEleventyPlugin)
 
+  return {
+    pathPrefix: "/dcf-design-history"
+         }
+
   // Register Eleventy Navigation plugin
   eleventyConfig.addPlugin(eleventyNavigationPlugin)
 
