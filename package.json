@@ -1,0 +1,24 @@
+{
+  "name": "dcf-design-history",
+  "version": "1.0.0",
+  "description": "Design history for the prototype Digital Capabilities Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scw-nhs/dcf-design-history.git"
+  },
+  "author": "Sam Brierley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scw-nhs/dcf-design-history/issues"
+  },
+  "homepage": "https://github.com/scw-nhs/dcf-design-history#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "@11ty/eleventy-navigation": "^1.0.4",
+    "@x-govuk/nhsuk-eleventy-plugin": "^1.0.4"
+  }
+}
