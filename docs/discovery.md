@@ -2,7 +2,7 @@
 layout: post
 title: Discovery findings
 includeInBreadcrumbs: true
-author: the secondary care application capabilities team
+author: NHS secondary care application capability framework team
 date: 2025-10-02
 tags: User research, Discovery
 ---
