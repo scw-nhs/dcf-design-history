@@ -9,7 +9,7 @@ startButton:
 ---
 ## About this design history
 
-This was built in October.
+This was built in October 2025. [View the background](/discovery/)
 
 Built by [NHS SCW](https://www.scwcsu.nhs.uk/) using Eleventy and the `@x-govuk/nhsuk-eleventy-plugin`.
 
