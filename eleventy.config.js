@@ -8,8 +8,9 @@ export default function(eleventyConfig) {
       service: {
         text: 'DCF design history'
       },
-}
+  }
 })
+  eleventyConfig.addPassthroughCopy("assets"); 
 
 // Config
   return {
