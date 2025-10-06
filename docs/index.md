@@ -9,7 +9,18 @@ startButton:
 ---
 ## About this design history
 
-This was built in October 2025. [View the background](/discovery/)
+Work started in October 2025 to update the Digital Capabilities Framework in line with [discovery findings](/discovery/) and to align it to the NHS One Architecture Model (OAM). Its focus within OAM is on digital secondary care application capabilities, aiming to make sure outputs are high quality, free of duplication and immediately consumable by OAM. 
+
+The alpha prototype will:
+
+1. increase the team's understanding of its target users' needs (CIOs, heads of national programmes in NHSE, other digital leaders) across secondary care, NHSE and DHSC, focusing specifically on existing and new use cases for interacting with OAM capability content
+2. co-design and iteratively develop an accessible front-end which enables these users to use relevant OAM capability views to support their planning, procurement, and service transformation decisions
+
+## Version history
+
+| Version | Description | Link | Date |
+| --- | --- | --- | --- |
+| v0.1 | A direct replica of current DCF content in Confluence, presented in a WordPress website to allow easy iterative development of content, information architecture, search and download functions | [Current prototype](https://dcf-prototype.uk/) | 02/10/2025
 
 Built by [NHS SCW](https://www.scwcsu.nhs.uk/) using Eleventy and the `@x-govuk/nhsuk-eleventy-plugin`.
 
