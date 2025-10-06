@@ -2,16 +2,16 @@ import { nhsukEleventyPlugin } from '@x-govuk/nhsuk-eleventy-plugin'
 import eleventyNavigationPlugin from '@11ty/eleventy-navigation'
 
 export default function(eleventyConfig) {
-  // Register NHS.UK plugin
-  eleventyConfig.addPlugin(nhsukEleventyPlugin)
+  // Register the plugin
+  eleventyConfig.addPlugin(nhsukEleventyPlugin, {
+    header: {
+      service: {
+        text: 'DCF design history'
+      },
+}
+})
 
-  return {
-    pathPrefix: "/dcf-design-history"
-         }
-
-  // Register Eleventy Navigation plugin
-  eleventyConfig.addPlugin(eleventyNavigationPlugin)
-
+// Config
   return {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
@@ -20,4 +20,4 @@ export default function(eleventyConfig) {
       input: 'docs',
     }
   }
-}
+};
