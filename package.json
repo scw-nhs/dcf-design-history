@@ -9,7 +9,7 @@
   "author": "Sam Brierley",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/scw-nhs/dcf-design-history/issues"
+    "url": "https://scw-nhs.github.io/dcf-design-history/issues"
   },
   "homepage": "https://scw-nhs.github.io/dcf-design-history/",
   "dependencies": {
