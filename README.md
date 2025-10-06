@@ -1,6 +1,6 @@
-## About this project
+## About this design history
 
-This is a design history tool chronicling alpha prototype development of the NHS Secondary Care Application Capability framework (replacing the NHS Digital Capabilities Framework) aligned to the NHS One Architecture Model (OAM). 
+This design history chronicles alpha prototype development of the NHS Secondary Care Application Capability framework (replacing the NHS Digital Capabilities Framework) aligned to the NHS One Architecture Model (OAM). 
 
 Its focus within OAM is on digital secondary care application capabilities, aiming to make sure its outputs are high quality, free of duplication and immediately consumable by OAM.
 
