@@ -9,7 +9,9 @@ startButton:
 ---
 ## About this design history
 
-Work started in October 2025 to update the Digital Capabilities Framework in line with [discovery findings](/discovery/) and to align it to the NHS One Architecture Model (OAM). Its focus within OAM is on digital secondary care application capabilities, aiming to make sure outputs are high quality, free of duplication and immediately consumable by OAM. 
+Work started in October 2025 to update the Digital Capabilities Framework in line with [the team's rapid discovery findings](/discovery/).
+
+The working title is 'NHS Secondary Care Application Capabilities'. This reflects user research findings that 'Digital Capabilities Framework' was not well understood, and also the need to align it to the NHS One Architecture Model (OAM). Its focus within OAM is on digital secondary care application capabilities, aiming to make sure its outputs are high quality, free of duplication and immediately consumable by OAM. 
 
 The alpha prototype will:
 
