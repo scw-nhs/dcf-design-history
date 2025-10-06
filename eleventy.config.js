@@ -8,17 +8,21 @@ export default function(eleventyConfig) {
       service: {
         text: 'DCF design history'
       },
-  }
-})
-  eleventyConfig.addPassthroughCopy("assets"); 
+    }
+  });
 
-// Config
+  eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
+  eleventyConfig.addPassthroughCopy("assets");
+
+  // Config
   return {
+    pathPrefix: "/dcf-design-history", // Fixes asset paths for GitHub Pages
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
     dir: {
       input: 'docs',
     }
-  }
+  };
 };
