@@ -7,11 +7,11 @@ startButton:
  href: "https://dcf-prototype.uk/"
  text: View the current prototype
 ---
-## About this design history
+## About this alpha service
 
 Work started in October 2025 to update the Digital Capabilities Framework in line with [the team's rapid discovery findings](/discovery/).
 
-The working title is 'NHS Secondary Care Application Capabilities'. This reflects user research findings that 'Digital Capabilities Framework' was not well understood, and also the need to align it to the NHS One Architecture Model (OAM). Its focus within OAM is on digital secondary care application capabilities, aiming to make sure its outputs are high quality, free of duplication and immediately consumable by OAM. 
+The alpha's working title is **'NHS Secondary Care Application Capabilities'**. This reflects user research findings that 'Digital Capabilities Framework' was not well understood, and also the need to align it to the NHS One Architecture Model (OAM). Its focus within OAM is on digital secondary care application capabilities, aiming to make sure its outputs are high quality, free of duplication and immediately consumable by OAM. 
 
 The alpha prototype will:
 
