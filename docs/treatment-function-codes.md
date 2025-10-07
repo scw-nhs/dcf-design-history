@@ -10,7 +10,7 @@ Based on the [NHS data dictionary archive](https://archive.datadictionary.nhs.uk
 
 | Code | Treatment Function Title | Comments |
 |------|---------------------------|----------|
-| **Surgical Specialties** |  |  |
+| **Surgical Specialties** |||
 | 100 | General Surgery | Includes sub-categories not elsewhere listed e.g. endocrine surgery |
 | 101 | Urology | Surgical treatment of disorders of the urinary system and male reproductive system |
 | 102 | Transplantation Surgery | Includes pre- and post-operative care for major organ transplants except heart and lung (see Cardiothoracic Transplantation). Excludes corneal grafts |
