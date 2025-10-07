@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Background
-description: The baseline - version 0.1
+description: The baseline - sprint 1
 includeInBreadcrumbs: true
 date: 2025-10-07
 author: WGLL delivery team at SCW
