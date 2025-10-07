@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Background
-description: The baseline - sprint 1
+title: Sprint 1
+description: How the team set up a rapid prototype to test with users
 includeInBreadcrumbs: true
 date: 2025-10-07
 author: WGLL delivery team at SCW
