@@ -59,7 +59,9 @@ The team also wrote a couple of custom plugins to control content in each Applic
 
 ## Investigating how DCF could map to OAM classes
 
-The team needed to develop an intial map from DCF across to OAM classes with a read across to OAM's service types. But these weren't populated yet in the OAM metamodel so the team looked at the [NHS data dictionary](https://www.datadictionary.nhs.uk/). However, it wasn't easy to get a list of which NHS business descriptions are also services. The team referred back to the [archived NHS data dictionary](/treatment-function-codes/) treatment function codes for comparison. This list looked much more comprehensive - but on closer examination was not nested consistently. The team took this away for further review and investigation.
+The team needed to develop an intial map from DCF across to OAM classes with a read across to OAM's service types. But these weren't populated yet in the OAM metamodel so the team looked at the [NHS data dictionary](https://www.datadictionary.nhs.uk/). However, it wasn't easy to get a list of which NHS business descriptions are also services. 
+
+The team referred back to the [archived NHS data dictionary](/treatment-function-codes/) treatment function codes for comparison. This list looked much more comprehensive - but on closer examination was not nested consistently. The team took this away for further review and investigation.
 
 ## Initial thoughts on information architecture (IA)
 
