@@ -25,4 +25,13 @@ For the alpha, the team wanted to test its hypothesis that a single unified plat
 
 The discovery highlighted problems with DCF's structure, navigability, consistency of language and search functionality. The team felt it'd be critical to test these things with users from the outset. Also, the team knew that, as a browser-based service, it would have to be accessible (to WCAG 2.1 AA) and built to either NHS or GOV.UK design patterns. 
 
-This narrowed down its choice of prototype. Figma and AxureRP were felt to be better for trialling designs, whereas the team wanted to design, test and iterate navigation and categorisation from the outset. Also, identifying and filling content gaps and improving language meant that a content management system (CMS) would support content designers (the team felt this would be a significant part of its work).
+This narrowed down its choice of Alpha prototype tooling. Figma and AxureRP were felt to be better for trialling designs, whereas the team wanted to design, test and iterate navigation and categorisation from the outset. Wireframes were considered - essentially allowing users to focus on new or amended content - but the team was concerned that this might feel like a 'step backwards' from FutureNHS or Confluence pages.
+
+By contrast, WordPress:
+
+1. provides a fully featured content management system (CMS) which the team felt would support content designers (identifying and filling content gaps and improving language were going to be a significant part of its work)
+2. stores content in a relational database which can be readily imported and exported to future platforms
+3. can be easily styled to look like an NHS service using the NHS Nightingale theme for WordPress (created by Tony Blacker at NHS Digital Academy)
+4. is highly extensible with a variety of plugins available to support taxonomy and/or ontology development, password protection and other functionality the prototype would need (plus the ability to code custom plugins as needed)
+
+
