@@ -1,3 +1,13 @@
+---
+layout: post
+title: NHS treatment function codes
+includeInBreadcrumbs: true
+author: the secondary care application capabilities team
+date: 2025-10-07
+tags: Business analysis
+---
+Based on the [NHS data dictionary archive](https://archive.datadictionary.nhs.uk/DD%20Release%20May%202019/web_site_content/supporting_information/main_specialty_and_treatment_function_codes_table.asp@shownav=1.html)
+
 | Code | Treatment Function Title | Comments |
 |------|---------------------------|----------|
 | Surgical Specialties |  |  |
