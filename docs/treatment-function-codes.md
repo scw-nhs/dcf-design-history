@@ -38,7 +38,7 @@ Based on the [NHS data dictionary archive](https://archive.datadictionary.nhs.uk
 | 174 | Cardiothoracic Transplantation | To be used by recognised specialist units and associated outreach services only. Includes pre- and post-operative services |
 | 180 | Accident & Emergency | Services to care for Patients with urgent problems delivered as part of an Accident and Emergency Attendance or admission at an Accident and Emergency Department |
 | 191 | Pain Management | Complex pain disorders requiring diagnosis and treatment by a specialist multi-professional team |
-| Other Children's Specialist Services - The Paediatric TREATMENT FUNCTION CODES represent CLINICS OR FACILITIES intended to provide dedicated SERVICES to children with appropriate facilities and support staff, i.e. they are designed for children only. If a CLINIC OR FACILITY provides this but also treats adult PATIENTS as part of the SERVICE then a Paediatric TREATMENT FUNCTION CODE may not be appropriate. The age of the PATIENT attending does not initiate a change to the TREATMENT FUNCTION CODE for the ACTIVITY. |  |  |
+| Other Children's Specialist Services*|  |  |
 | 211 | Paediatric Urology | Surgical treatment of disorders of the urinary system and male reproductive system |
 | 212 | Paediatric Transplantation Surgery | Includes pre- and post-operative care for major organ transplants except heart and lung (see Cardiothoracic Transplantation). Excludes corneal grafts |
 | 213 | Paediatric Gastrointestinal Surgery | Surgical treatment of disorders of the gastrointestinal tract |
@@ -191,3 +191,5 @@ Based on the [NHS data dictionary archive](https://archive.datadictionary.nhs.uk
 | 950 | not a Treatment Function | Use the appropriate function under which the patient is treated |
 | 960 | not a Treatment Function | Use the appropriate function under which the patient is treated |
 | 990 | Retired |  |
+
+*The Paediatric TREATMENT FUNCTION CODES represent CLINICS OR FACILITIES intended to provide dedicated SERVICES to children with appropriate facilities and support staff, i.e. they are designed for children only. If a CLINIC OR FACILITY provides this but also treats adult PATIENTS as part of the SERVICE then a Paediatric TREATMENT FUNCTION CODE may not be appropriate. The age of the PATIENT attending does not initiate a change to the TREATMENT FUNCTION CODE for the ACTIVITY. 
