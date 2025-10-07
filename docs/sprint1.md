@@ -13,11 +13,11 @@ One of the key user research and engagement findings from the discovery was that
 
 > Some Excel users felt DCF held insufficient detail to determine if a supplier could deliver a capability, or for suppliers to build towards. Others, looking at Confluence, viewed DCF as too detailed and not for everyone. 
 
-For the alpha, the team wanted to test its hypothesis that a single unified platform would help:
+For the alpha, the team wanted to test its hypothesis that a single unified platform could:
 
 1. address unmet user needs and points of friction in user journeys identified in [the discovery](/discovery/)
 2. provide a trusted 'single source of truth'
-3. provide options to create tailored journeys and tools for different types of user and use cases
+3. present tailored journeys and tools for different types of user and use cases
 4. distinguish between the framework itself and derived products that support specific use cases
 5. position secondary care application capabilities as a constituent part of the OAM
 
