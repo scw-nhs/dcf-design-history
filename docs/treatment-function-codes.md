@@ -10,7 +10,7 @@ Based on the [NHS data dictionary archive](https://archive.datadictionary.nhs.uk
 
 | Code | Treatment Function Title | Comments |
 |------|---------------------------|----------|
-| Surgical Specialties |  |  |
+| **Surgical Specialties** |  |  |
 | 100 | General Surgery | Includes sub-categories not elsewhere listed e.g. endocrine surgery |
 | 101 | Urology | Surgical treatment of disorders of the urinary system and male reproductive system |
 | 102 | Transplantation Surgery | Includes pre- and post-operative care for major organ transplants except heart and lung (see Cardiothoracic Transplantation). Excludes corneal grafts |
@@ -21,7 +21,7 @@ Based on the [NHS data dictionary archive](https://archive.datadictionary.nhs.uk
 | 107 | Vascular Surgery | Surgical treatment of diseases of the vascular system |
 | 108 | Spinal Surgery Service | Surgery concentrating on specialised and complex treatment of the back and spine. The Service has a significantly different composition and profile from the Service provided in Treatment Function Code - 110 Trauma & Orthopaedic. Excludes Spinal Injuries - see Treatment Function Code 323 |
 | 110 | Trauma & Orthopaedics | Surgery to treat injuries, congenital and acquired disorders of the bones, joints, and their associated soft tissues, including ligaments, nerves and muscles. Excludes Spinal Surgery Service - see Treatment Function Code 108 |
-| 120 | Ent | Ear, nose and throat |
+| 120 | ENT | Ear, nose and throat |
 | 130 | Ophthalmology | The surgical treatment of disorders and diseases of the eye. Excludes Medical Ophthalmology - see Treatment Function Code 460 |
 | 140 | Oral Surgery | The diagnosis and surgical treatment of diseases, injuries and defects involving both the functional and aesthetic aspects of the hard and soft tissues of the head, mouth, teeth, gums, jaws and neck |
 | 141 | Restorative Dentistry | Endodontics, Periodontics and Prosthodontics are all part of Restorative Dentistry |
@@ -38,7 +38,7 @@ Based on the [NHS data dictionary archive](https://archive.datadictionary.nhs.uk
 | 174 | Cardiothoracic Transplantation | To be used by recognised specialist units and associated outreach services only. Includes pre- and post-operative services |
 | 180 | Accident & Emergency | Services to care for Patients with urgent problems delivered as part of an Accident and Emergency Attendance or admission at an Accident and Emergency Department |
 | 191 | Pain Management | Complex pain disorders requiring diagnosis and treatment by a specialist multi-professional team |
-| Other Children's Specialist Services*|  |  |
+| **Other Children's Specialist Services***|  |  |
 | 211 | Paediatric Urology | Surgical treatment of disorders of the urinary system and male reproductive system |
 | 212 | Paediatric Transplantation Surgery | Includes pre- and post-operative care for major organ transplants except heart and lung (see Cardiothoracic Transplantation). Excludes corneal grafts |
 | 213 | Paediatric Gastrointestinal Surgery | Surgical treatment of disorders of the gastrointestinal tract |
@@ -71,7 +71,7 @@ Based on the [NHS data dictionary archive](https://archive.datadictionary.nhs.uk
 | 280 | Paediatric Interventional Radiology | Diagnosis and treatment of diseases utilising minimally-invasive image-guided procedures. Not to be used for Diagnostic Imaging - see Treatment Function Code 812 |
 | 290 | Community Paediatrics | Includes routine health surveillance, health promotion, behavioural paediatrics and Looked After Children. Excludes Paediatric Neuro-Disability |
 | 291 | Paediatric Neuro-disability | Dedicated Services for children with Cerebral Palsy and non-progressive handicapping neurological conditions, with or without Learning Disability |
-| Medical Specialties |  |  |
+| **Medical Specialties** |  |  |
 | 190 | Anaesthetics | This can be used in out-patients only. Pain Management should be recorded in 191 |
 | 192 | Critical Care Medicine | also known as Intensive Care Medicine |
 | 300 | General Medicine | Includes sub-categories not elsewhere listed e.g. Metabolic Medicine. |
@@ -125,7 +125,7 @@ Based on the [NHS data dictionary archive](https://archive.datadictionary.nhs.uk
 | 421 | Paediatric Neurology | Dedicated Services to children to diagnose and treat conditions and diseases of the central nervous system, with appropriate facilities and support staff |
 | 422 | Neonatology | Special Care, High Dependency and Intensive Care |
 | 424 | Well Babies | Use when Neonatal Level Of Care = 0 - Normal Care: Care given by the mother/substitute with medical and neonatal nursing advice if needed. See Well Baby |
-| 430 | Geriatric Medicine | Services to treat diseases and disabilities in older adults. There is no set age at which Patients may be under the care of Geriatric Medicine, this decision should be determined by the individual PATIENT's needs |
+| 430 | Geriatric Medicine | Services to treat diseases and disabilities in older adults. There is no set age at which Patients may be under the care of Geriatric Medicine, this decision should be determined by the individual Patient's needs |
 | 450 | Dental Medicine Specialties | Includes Oral Medicine. |
 | 460 | Medical Ophthalmology | Services to diagnose and treat medical conditions affecting the eye, orbits, and visual pathways |
 | 500 | not a Treatment Function |  |
@@ -138,7 +138,7 @@ Based on the [NHS data dictionary archive](https://archive.datadictionary.nhs.uk
 | 600 | not a Treatment Function |  |
 | 610 | Retired | Record as Obstetrics |
 | 620 | Retired | Use the appropriate function under which the patient is treated |
-| Therapies |  |  |
+| **Therapies** |  |  |
 | 650 | Physiotherapy | The treatment of human function and movement to help people to achieve their full physical potential. The use of physical approaches to promote, maintain and restore wellbeing |
 | 651 | Occupational Therapy | The use of specific activities to limit the effects of disability and promote independence in all aspects of daily life |
 | 652 | Speech And Language Therapy | The assessment, treatment and help to prevent speech, language and swallowing difficulties |
@@ -153,7 +153,7 @@ Based on the [NHS data dictionary archive](https://archive.datadictionary.nhs.uk
 | 661 | Music Therapy | The use of music and all of its facets to help clients to improve or maintain their health |
 | 662 | Optometry | The diagnosis and non-surgical treatment of disorders of the eye and vision care |
 | 663 | Podiatric Surgery | The treatment of foot problems, including soft tissue, bone and joint surgery of the foot, ankle and associated structures, excludes Podiatry see Treatment Function Code - 653 |
-| Psychiatry |  |  |
+| **Psychiatry** |  |  |
 | 700 | Learning Disability | Services provided to Patients with a Learning Disability |
 | 710 | Adult Mental Illness | Services provided to adult Patients for the assessment, diagnosis and treatment of mental illness |
 | 711 | Child and Adolescent Psychiatry | Services providing diagnosis, treatment, and prevention of psychopathological disorders of children and adolescents |
@@ -168,12 +168,12 @@ Based on the [NHS data dictionary archive](https://archive.datadictionary.nhs.uk
 | 725 | Mental Health Recovery And Rehabilitation Service | Services provided to support recovery from mental illness that maximises the Patient's quality of life and social inclusion by encouraging their skills, promoting independence and autonomy |
 | 726 | Mental Health Dual Diagnosis Service | Services to provide support to Patients with both severe mental illness and substance misuse problems. Personality disorder may coexist with psychiatric illness and/or substance misuse |
 | 727 | Dementia Assessment Service | Services for the assessment of Patients with dementia, which may complicate care giving and can occur at any stage of the illness. In addition to memory impairment, dementia may include behavioural and psychological problems |
-| Radiology |  |  |
+| **Radiology** |  |  |
 | 800 | Clinical Oncology (previously Radiotherapy) | The diagnosis and treatment, typically with Radiotherapy, of Patients with cancer. |
 | 810 | not a Treatment Function |  |
 | 811 | Interventional Radiology | Diagnosis and treatment of diseases utilising minimally-invasive image-guided procedures. Not to be used for Diagnostic Imaging - see Treatment Function Code 812 |
 | 812 | Diagnostic Imaging | The production and interpretation of high quality images of the body to diagnose injuries and disease, e.g. x-rays, Ultrasound Scan, Mri Scan, Pet Scan or Ct Scan. |
-| Pathology |  |  |
+| **Pathology** |  |  |
 | 820 | not a Treatment Function |  |
 | 821 | not a Treatment Function |  |
 | 822 | Chemical Pathology | To be used for clinical management only |
@@ -183,7 +183,7 @@ Based on the [NHS data dictionary archive](https://archive.datadictionary.nhs.uk
 | 831 | not a Treatment Function | See Clinical Microbiology |
 | 832 | Retired |  |
 | 834 | Medical Virology | The diagnosis and management and prevention of virus and related infections, in hospital and in the community including Hiv/aids, other blood-borne infections like hepatitis B and C and viruses such as Sars and avian flu |
-| Other |  |  |
+| **Other** |  |  |
 | 840 | Audiology | Physiological measurement and diagnosis of hearing disorders, and the rehabilitation of Patients with hearing loss |
 | 900 | not a Treatment Function |  |
 | 901 | not a Treatment Function |  |
