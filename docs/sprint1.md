@@ -63,6 +63,4 @@ The team needed to develop an intial map from DCF across to OAM classes with a r
 
 The team referred back to the [archived NHS data dictionary](/treatment-function-codes/) treatment function codes for comparison. This list looked much more comprehensive - but on closer examination was not nested consistently. The team took this away for further review and investigation.
 
-## Initial thoughts on information architecture (IA)
-
-Within an IA, content can be tagged to a taxonomy (hierarchical) and/or tags (non-hierarchical). 
+[Back to homepage](/)
