@@ -57,10 +57,4 @@ Referring to their service designer's initial conceptual model, the team install
 
 The team also wrote a couple of custom plugins to control content in each Application Capability's User Story, pulling in custom field group content and DCF Application Function content via shortcodes, and allowing a list of all application functions to be displayed, with a column showing all the Application Capabilities each Application Function applied to and the ability to download as CSV or Excel. This was informed by likely requirements identified in Discovery.
 
-## Investigating how DCF could map to OAM classes
-
-The team needed to develop an intial map from DCF across to OAM classes with a read across to OAM's service types. But these weren't populated yet in the OAM metamodel so the team looked at the [NHS data dictionary](https://www.datadictionary.nhs.uk/). However, it wasn't easy to get a list of which NHS business descriptions are also services. 
-
-The team referred back to the [archived NHS data dictionary](/treatment-function-codes/) treatment function codes for comparison. This list looked much more comprehensive - but on closer examination was not nested consistently. The team took this away for further review and investigation.
-
 [Back to homepage](/)
