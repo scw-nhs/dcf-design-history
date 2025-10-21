@@ -22,7 +22,7 @@ The alpha prototype will:
 
 | Version | Description | Link | Date |
 | --- | --- | --- | --- |
-| v0.1 | A direct replica of current DCF content in Confluence, presented in a WordPress website to allow easy iterative development of content, information architecture, search and download functions | [Current prototype](https://dcf-prototype.uk/) | 02/10/2025
+| v0.1 | Setting up a WordPress website to allow easy iterative development of content, information architecture, search and download functions | [Sprint1](/) | 02/10/2025
 
 Built by [NHS SCW](https://www.scwcsu.nhs.uk/) using Eleventy and the `@x-govuk/nhsuk-eleventy-plugin`.
 
