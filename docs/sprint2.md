@@ -33,3 +33,7 @@ The team imported Maternity and Ambulance user stories, mapped to application ca
 ## Fixing import issues
 
 The Excel spreadsheets are not consistently formatted, so the team designed a pre-import data consolidation and validation process. Existing content can be deleted and replaced fairly easily in the import tool.
+
+## Website phase banner
+
+The team considered if the prototype website needed to be labelled as a prototype. It currently isn't because it requires password access, but the Nightingale theme doesn't support a phase banner or similar approach so this could be a future coding requirement. However, previous [research on NHS services suggests that phase banners can be confusing for users](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/89). The team decided to avoid using phase banners.
