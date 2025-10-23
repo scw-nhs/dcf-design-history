@@ -27,3 +27,9 @@ The discovery highlighted that users didn't always understand how or where to ac
 > ‘I was a little bit confused… because I think when you first did [DCF], you didn't have maternity. So I was looking in community for my community midwives’
 
 The team imported Maternity and Ambulance user stories, mapped to application capabilities. In this process, it became clear that these products had been developed separately - for example, Ambulance is not mapped to Application Functions.
+
+![Creating data import template to map data to fields](/assets/images/configuring-data-import-scripts.png "Data import scripts")
+
+## Fixing import issues
+
+The Excel spreadsheets are not consistently formatted, so the team designed a pre-import data consolidation and validation process. Existing content can be deleted and replaced fairly easily in the import tool.
