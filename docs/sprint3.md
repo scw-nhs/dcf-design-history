@@ -11,7 +11,7 @@ author: Application Capability Framework delivery team at SCW
 
 Li Jenkins-Twist's [background to OAM](https://www.linkedin.com/pulse/making-sense-system-describing-health-care-england-li-jenkins-twist-xpkwe/) was really useful context, as was the OAM team's [draft L1 and L2 business capabilities](https://www.linkedin.com/posts/li-jenkins-twist-40b215176_letstalkarchitecture-activity-7323282611827580928-kbEX/).
 
-> "To develop truly joined-up care, we need to step back and develop a shared view of how the system functions – what capabilities we need, the reality of patient journeys across care pathways, and where technology supports delivery. Not from the perspective of a single organisation, but from the intended outcomes and the perspective of the people the system is meant to serve." - Li Jenkins-Twist, NHSE Chief Enterprise Architect
+> To develop truly joined-up care, we need to step back and develop a shared view of how the system functions – what capabilities we need, the reality of patient journeys across care pathways, and where technology supports delivery. Not from the perspective of a single organisation, but from the intended outcomes and the perspective of the people the system is meant to serve. - Li Jenkins-Twist, NHSE Chief Enterprise Architect
 
 The ACF team needed to work out how to present this shared view to users, relevant to their real-world tasks and priorities. The team knew from [user research in its discovery](/discovery/) that to be successful, the information service would need to be *useful*, *usable* and *used*. Phrased as questions, this grouped the recommendations into potential solutions (and assumptions) to test in the alpha:
 
