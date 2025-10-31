@@ -20,10 +20,11 @@ The alpha prototype will:
 
 ## Version history
 
-| Version | Description | Link | Date |
+| Sprint | Description | Link | Date |
 | --- | --- | --- | --- |
-| v0.1 | Setting up a WordPress website to allow easy iterative development of content, information architecture, search and download functions | [Sprint1](/sprint1/) | 02/10/2025 |
-| v0.2 | Importing DCF content | [Sprint2](/sprint2/) | 15/10/2025 |
+| Sprint 1 | Setting up a WordPress website to allow easy iterative development of content, information architecture, search and download functions | [Sprint1](/sprint1/) | 02/10/2025 |
+| Sprint 2 | Importing DCF content | [Sprint2](/sprint2/) | 15/10/2025 |
+| Sprint 3 | Framing the problem and moving from planning to delivery | 31/10/2025
 
 Built by [NHS SCW](https://www.scwcsu.nhs.uk/) using Eleventy and the `@x-govuk/nhsuk-eleventy-plugin`.
 
