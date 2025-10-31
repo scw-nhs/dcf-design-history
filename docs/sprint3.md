@@ -19,4 +19,8 @@ The ACF team needed to work out how to present this shared view to users, releva
 
 1. design specific tools and functionality that supports users and use cases identified through research
 2. show how OAM ACF can be used to support specific tasks, eg planning to deliver national and local priorities for service transfer and improvement
-3. provide direct, explicit links to good practice, such as the NHS What Good Looks Like framework
+3. provide direct, explicit links to good practice, such as the [NHS What Good Looks Like framework](https://transform.england.nhs.uk/digitise-connect-transform/what-good-looks-like/what-good-looks-like-publication/) and [NHS Blueprints](https://future.nhs.uk/GDEcommunity/groupHome) on the FutureNHS website (login required).
+
+### How can we make OAM ACF usable?
+
+1. Make the framework open and accessible for anyone to use, eg 
