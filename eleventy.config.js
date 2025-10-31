@@ -6,7 +6,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addPlugin(nhsukEleventyPlugin, {
     header: {
       service: {
-        text: 'DCF design history'
+        text: 'OAM (ACF for secondary care EPR) - a design history'
       },
     }
   });
