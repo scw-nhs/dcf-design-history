@@ -21,11 +21,12 @@ The alpha prototype will:
 ## Sprint history
 
 | Sprint | Description | Date |
-| --- | --- | --- |
+| ---- | --- | --- |
 | [Sprint 1](/sprint1/) | Setting up a WordPress website to allow easy iterative development of content, information architecture, search and download functions | 02/10/2025 |
 | [Sprint 2](/sprint2/) | Importing DCF content | 15/10/2025 |
-| [Sprint 3](/sprint3/) | Framing the problem and moving from planning to delivery | 31/10/2025
-| [Sprint 4](/sprint4/) | Alpha kickoff | 14/11/2025
+| [Sprint 3](/sprint3/) | Framing the problem and moving from planning to delivery | 31/10/2025 |
+| [Sprint 4](/sprint4/) | Alpha kickoff | 14/11/2025 |
+| [Sprint 5](/sprint5/) | Remapping to OAM | 28/11/2025 |
 
 Built by [NHS SCW](https://www.scwcsu.nhs.uk/) using Eleventy and the `@x-govuk/nhsuk-eleventy-plugin`.
 
