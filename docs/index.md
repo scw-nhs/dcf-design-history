@@ -25,6 +25,7 @@ The alpha prototype will:
 | Sprint 1 | Setting up a WordPress website to allow easy iterative development of content, information architecture, search and download functions | [Sprint1](/sprint1/) | 02/10/2025 |
 | Sprint 2 | Importing DCF content | [Sprint2](/sprint2/) | 15/10/2025 |
 | Sprint 3 | Framing the problem and moving from planning to delivery | [Sprint3](/sprint3/) | 31/10/2025
+| Sprint 4 | Alpha kickoff | [Sprint4](/sprint4/) | 14/11/2025
 
 Built by [NHS SCW](https://www.scwcsu.nhs.uk/) using Eleventy and the `@x-govuk/nhsuk-eleventy-plugin`.
 
