@@ -168,11 +168,11 @@ get_template_part( 'template-parts/user-story/user-story-table', null, [ 'post_i
 the_content();
 
 // Expander-wrapped related standards table
-g e t _ t e m p l a t e _ p a r t( 'template-parts/user-story/related-standards-by-tax' );
+get_template_part( 'template-parts/user-story/related-standards-by-tax' );
 ?>
 ```
 
-> Ensure your `user_story` CPT is registered to use the `standard` taxonomy and that each story has at least one **standard** term assigned. Your Site Health + ACF export confirm `user_story` is linked to the `standard` taxonomy, and that the taxonomy stores the metadata. citeturn6search1
+> Ensure your `user_story` CPT is registered to use the `standard` taxonomy and that each story has at least one **standard** term assigned. Your Site Health + ACF export confirm `user_story` is linked to the `standard` taxonomy, and that the taxonomy stores the metadata. 
 
 ---
 
