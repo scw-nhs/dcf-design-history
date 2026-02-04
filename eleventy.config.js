@@ -6,7 +6,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addPlugin(nhsukEleventyPlugin, {
     header: {
       service: {
-        text: 'OAM (ACF for secondary care EPR) - a design history'
+        text: 'NHS Digital Capabilities Framework for secondary care EPRs - a design history'
       },
     }
   });
