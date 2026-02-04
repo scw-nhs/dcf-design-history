@@ -21,5 +21,9 @@ The team used the prototype to talk the OAM team through its proposed mapping - 
 
 These questions were logged and meetings set up with the OAM team to discuss, allowing them time to consider options (set out in a short document).
 
+## Decisions
+
+The OAM team agreed that Application Functions in DCD should map to Application Capabilities. The team went away to look at whether DCF user stories could map to OAM service types and their constituent process types.
+
 
 [Return to homepage](/)
