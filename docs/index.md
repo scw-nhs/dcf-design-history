@@ -1,7 +1,7 @@
 ---
 homepage: true
 layout: product
-title: Design history for NHS Secondary Care Application Capabilities within OAM
+title: Design history for Digital Capabilities Framework for Secondary Care EPRs
 description: Developing a digital information service to meet users' needs.
 startButton:
  href: "https://dcf-prototype.uk/"
@@ -11,7 +11,9 @@ startButton:
 
 Work started in October 2025 to update the existing Digital Capabilities Framework in line with [the team's rapid discovery findings](/discovery/). This focused on current and future users' needs, and how they have changed since the framework was first introduced to support the shift from paper-based and electronic patient record systems to modern digital EPRs.
 
-The alpha's working title is **'NHS Secondary Care Application Capabilities'**. This reflects user research findings that 'Digital Capabilities Framework' was not well understood, and also the need to align it to the NHS One Architecture Model (OAM). Its focus within OAM is on digital secondary care application capabilities, aiming to make sure its outputs are high quality, free of duplication and immediately consumable by OAM. 
+The alpha's working title is **'Digital Capabilities Framework for Secondary Care EPRs'**. This reflects user research findings that 'Digital Capabilities Framework' was not well understood - many users felt it covered all digital capabilities needed by NHS organisations, rather than relating to a single application type (EPRs) within secondary care only. 
+
+Over time, DCF will align to the emerging NHS One Architecture Model (OAM). The team is starting this process by aiming to make sure DCF outputs are high quality, free of duplication and immediately consumable by OAM. 
 
 The alpha prototype will:
 
