@@ -29,6 +29,8 @@ The alpha prototype will:
 | [Sprint 3](/sprint3/) | Framing the problem and moving from planning to delivery | 31/10/2025 |
 | [Sprint 4](/sprint4/) | Alpha kickoff | 14/11/2025 |
 | [Sprint 5](/sprint5/) | Remapping to OAM | 28/11/2025 |
+| [Sprint 6](/sprint6/) | Alpha version 2 | 19/12/2025 |
+| [Sprint 7](/sprint7/) | Alpha version 3 | 27/02/2026 |
 
 Built by [NHS SCW](https://www.scwcsu.nhs.uk/) using Eleventy and the `@x-govuk/nhsuk-eleventy-plugin`.
 
