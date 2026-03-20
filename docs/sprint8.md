@@ -37,7 +37,22 @@ User research with v3 and previous prototypes highlighted some key priorities fo
 
 > I'm looking at a collective of multiple digital systems and how they deliver capability for me. So something that's very EPR specific; it just doesn't really equate to what goes on in the real world.
 
-## Version 4
+## Presenting relevant standards in user stories
+
+Stakeholder engagement suggested that it was important to have a direct link to standards from user stories. However, although the Confluence version of DCF had these links present, they were essentially 'static' as they had been manually created. To fix this and present an up-to-date list of standards, the team:
+
+1. created a canonical list of standards and matched them to user stories in DCF (Business analysts)
+2. reviewed this list against the [NHS Standards Directory](https://standards.nhs.uk/) to disambiguate and check URLs (Business analysts)
+3. creating a custom post type for standards and importing standards metadata so standards could be tagged to taxonomy terms (Interaction designer)
+4. created design options for presenting standards information, referring to user research (Interaction designer)
+5. developed a template part for WordPress to add the standards automatically to every `user_story` custom post type (Interaction designer)
+6. wrote [guidance on how this was done](/Related-Standards-by-Taxonomy-Guide/) (Content designer/Interaction designer)
+
+The team felt the design could be improved by having a direct link to the NHS Standards Directory instead of to a custom post type. But this would need more work and there is the possiblity that this service could, in future share a platform with the Standards Directory. 
+
+The team decided the working solution was appropriate for the Alpha and focused on providing detailed technical guidance for this feature instead so it could inform future development.
+
+## Future service roadmap
 
 Sprint 8 is the second to last sprint, so the team knew that the alpha could design and test solutions to some of these priorities but not all. Version 4 focused on:
 
