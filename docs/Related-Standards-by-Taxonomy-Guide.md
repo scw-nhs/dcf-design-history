@@ -226,7 +226,7 @@ get_template_part( 'template-parts/user-story/related-standards-by-tax' );
 
 1. **No terms assigned** → nothing renders. Assign one or more **standard** terms to the `user_story`.
 2. **Mismatched IDs** → query returns no posts. Ensure Standard posts have ACF/meta `standard_id` matching the **term Name** (e.g., `STD001`) or the upper‑cased Slug (`std001` → `STD001`).
-3. **ACF location** → If you later move “Standards metadata” to the **`standard` post type** instead of the taxonomy, you can simplify the logic to read only post meta. Today, the taxonomy is the source. citeturn6search1
+3. **ACF location** → If you later move “Standards metadata” to the **`standard` post type** instead of the taxonomy, you can simplify the logic to read only post meta. Currently the taxonomy is the source.
 4. **Styling anomalies** → Verify there are no unbalanced `<a>` tags in nearby templates; one stray anchor can break layout.
 
 ---
