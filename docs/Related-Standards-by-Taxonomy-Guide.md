@@ -1,7 +1,17 @@
+---
+layout: post
+title: Related Standards by Taxonomy — Implementation Guide (NHS Nightingale) 
+description: Documentation for creating and maintaining a widget that displays an NHS-styled table of related standards in an expander component
+includeInBreadcrumbs: true
+date: 2026-03-13
+author: Application Capability Framework delivery team at SCW
+---
 
-# Related Standards by Taxonomy — Implementation Guide (NHS Nightingale)
+## Problem statement and design approach
 
-> **Goal:** On each `user_story` single, list related **Standard** posts in an NHS‑styled table, where the relationship is defined by the assigned `standard` taxonomy terms. Match logic: for each assigned term, take the **term Name** (e.g. `STD001`) as the primary key and the **upper‑cased Slug** (e.g. `std001` → `STD001`) as a fallback, then find `standard` posts whose ACF meta **`standard_id`** equals any of those keys. The table is wrapped in an NHS **Expander (plus variant)** titled **“View related standards (N)”**.
+For each user story, the team needed to display related NHS standards from the [NHS Standards Directory](https://standards.nhs.uk/). The team decided to design this as a fixed item for each `user_story` template. The design chosen was to list related **Standard** posts in an NHS‑styled table, where the relationship is defined by the assigned `standard` taxonomy terms. The table is wrapped in an NHS **Expander (plus variant)** titled **“View related standards (N)”**. This is because there can be a lot of standards in the table and research suggested they are not needed by all users.
+
+The match logic used was, for each assigned term, to take the **term Name** (e.g. `STD001`) as the primary key and the **upper‑cased Slug** (e.g. `std001` → `STD001`) as a fallback, then find `standard` posts whose ACF meta **`standard_id`** equals any of those keys. 
 
 ---
 
