@@ -3,8 +3,6 @@
 
 > **Goal:** On each `user_story` single, list related **Standard** posts in an NHS‑styled table, where the relationship is defined by the assigned `standard` taxonomy terms. Match logic: for each assigned term, take the **term Name** (e.g. `STD001`) as the primary key and the **upper‑cased Slug** (e.g. `std001` → `STD001`) as a fallback, then find `standard` posts whose ACF meta **`standard_id`** equals any of those keys. The table is wrapped in an NHS **Expander (plus variant)** titled **“View related standards (N)”**.
 
-> **Context:** Your ACF export shows the field group **“Standards metadata”** is attached to the **`standard` taxonomy** (location rule: `taxonomy == standard`), not to the `standard` CPT. That’s why term data is the authoritative source for relationships from `user_story` → `standard`. citeturn6search1
-
 ---
 
 ## 1) Create the Template Part
@@ -153,13 +151,13 @@ $expander_id = 'details-content-related-standards-' . (int) $post_id;
 <?php wp_reset_postdata(); ?>
 ```
 
-> **Why match via taxonomy term?** Because the “Standards metadata” ACF group targets the **`standard` taxonomy** (not the `standard` CPT). That means the relationship originates from the **terms** you assign to each `user_story`. You then locate the corresponding **Standard** posts via the shared `standard_id` meta. citeturn6search1
+> **Why match via taxonomy term?** Because the “Standards metadata” ACF group targets the **`standard` taxonomy** (not the `standard` CPT). That means the relationship originates from the **terms** assigned to each `user_story`, and then the plugin will locate the corresponding **Standard** posts via the shared `standard_id` meta.
 
 ---
 
 ## 2) Include the Template Part in `single-user_story.php`
 
-Add this line beneath your existing ACF table and content:
+Add this line beneath your existing ACF table and content - this means it shows up in every post that uses the user_story ACF custom post type:
 
 ```php
 <?php
@@ -188,7 +186,7 @@ get_template_part( 'template-parts/user-story/related-standards-by-tax' );
 
 ---
 
-## 4) Optional Enhancements
+## 4) Optional enhancements
 
 - **Plural‑aware label**
 
@@ -224,7 +222,7 @@ get_template_part( 'template-parts/user-story/related-standards-by-tax' );
 
 ---
 
-## 5) Common Pitfalls & Checks
+## 5) Common pitfalls found during testing and how to check these
 
 1. **No terms assigned** → nothing renders. Assign one or more **standard** terms to the `user_story`.
 2. **Mismatched IDs** → query returns no posts. Ensure Standard posts have ACF/meta `standard_id` matching the **term Name** (e.g., `STD001`) or the upper‑cased Slug (`std001` → `STD001`).
@@ -233,14 +231,8 @@ get_template_part( 'template-parts/user-story/related-standards-by-tax' );
 
 ---
 
-## 6) Where this Guide References Your Data
-
-- The fact that **“Standards metadata”** targets the **`standard` taxonomy** (group key `group_6942f1a3d30e7`, location = `taxonomy == standard`) and includes fields like `standard_id`, `standard_description`, and `url` is taken directly from your ACF export JSON. citeturn6search1
-
----
-
-### Maintenance Tips
+### Other maintenance Tips
 
 - Keep term **Name** in canonical `STD###` format so matching remains predictable.
-- When importing Standards, map `standard_id` into the Standard post’s ACF/meta so the join works immediately. If you also keep term‑level metadata, ensure Name/Slug conventions are consistent. citeturn6search1
+- When importing Standards, map `standard_id` into the Standard post’s ACF/meta so the join works immediately. If you also keep term‑level metadata, ensure Name/Slug conventions are consistent.
 
