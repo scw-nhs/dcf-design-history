@@ -157,7 +157,7 @@ $expander_id = 'details-content-related-standards-' . (int) $post_id;
 
 ## 2) Include the Template Part in `single-user_story.php`
 
-Add this line beneath your existing ACF table and content - this means it shows up in every post that uses the user_story ACF custom post type:
+Add this line beneath your existing ACF table and content - this means it shows up in every post that uses the `user_story` ACF custom post type:
 
 ```php
 <?php
