@@ -10,7 +10,7 @@ author: Application Capability Framework delivery team at SCW
 ## 1) Executive Summary
 This document captures the design process to build a **capability assessment workflow** from a canonical list of EPR application capabilities held within a WordPress website, using **Gravity Forms**, **ACF** and the NHS **Nightingale** theme. 
 
-**Plugin filename:** `nhs-capability-assessment.php`  
+**Plugin filename:** `nhs-capability-assessment.php` | [Download](assets/downloads/nhs-application-capability-assessment.zip)
 **Current plugin version:** **v6.4.0**
 
 The final solution uses:
