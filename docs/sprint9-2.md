@@ -13,5 +13,6 @@ author: Application Capability Framework delivery team at SCW
 | --- | --- 
 | [Nightingale child theme](/assets/dcf-alpha-nightingale-child-folder.zip) | All templates, parts, partials
 | [Creating the 'Related standards by taxonomy plugin](/Related-Standards-by-Taxonomy-Guide/) | Documentation
+| [Creating the 'Application capability self assessment' tool](/capability-self-assessment-workflow/)
 
 [Return to homepage](/)
