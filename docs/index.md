@@ -33,7 +33,7 @@ The alpha prototype will:
 | [Sprint 7](/sprint7/) | Alpha version 3 - aligning to OAM and improving contextual guidance | 27/02/2026 |
 | [Sprint 8](/sprint8/) | Alpha version 4 - iterating search filters and developing derived tools | 13/03/2026 |
 | [Sprint 9](/sprint9/) | Self-assessment vs NHS service standards, derived tools and feedback form | 20/03/2026 |
-| [Sprint 9](/) | Documentation and handover to the OAM team - TO BE PUBLISHED | 27/03/2026 |
+| [Sprint 9](/sprint9-2) | Documentation and handover to the OAM team | 27/03/2026 |
 
 
 Built by [NHS SCW](https://www.scwcsu.nhs.uk/) using Eleventy and the `@x-govuk/nhsuk-eleventy-plugin`.
