@@ -1,16 +1,19 @@
-
-# NHS Capability Assessment Workflow — Technical Documentation (v6.4.0)
-
-**Author:** SCW CSU (Sam Brierley)) 
-**Date:** 2026-03-10  
-**Scope:** WordPress + Gravity Forms + ACF + Nightingale (NHS.UK)  
-**Plugin filename:** `nhs-capability-assessment.php`  
-**Current plugin version:** **v6.4.0**
-
+---
+layout: post
+title: Self-assess application capability tool
+description: NHS Capability Assessment Workflow — Technical Documentation (v6.4.0)
+includeInBreadcrumbs: true
+date: 2026-03-20
+author: Application Capability Framework delivery team at SCW
 ---
 
 ## 1) Executive Summary
-This document captures the end‑to‑end journey we followed to design and build a **capability assessment workflow** for EPR capabilities using WordPress, **Gravity Forms**, **ACF** and the **Nightingale** theme. The final solution uses:
+This document captures the design process to build a **capability assessment workflow** from a canonical list of EPR application capabilities held within a WordPress website, using **Gravity Forms**, **ACF** and the NHS **Nightingale** theme. 
+
+**Plugin filename:** `nhs-capability-assessment.php`  
+**Current plugin version:** **v6.4.0**
+
+The final solution uses:
 
 - A **master Assessment form** (Form **ID 2**) to create an “Assessment” record (Assessment ID).  
 - A **Capability form** (Form **ID 1**) that a user completes once **per capability**.  
