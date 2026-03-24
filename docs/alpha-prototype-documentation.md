@@ -124,7 +124,7 @@ This approach is more robust than the custom plugin/shortcode approach first tri
 
 The partial topnav.php was edited to add HTML to create a phase banner with a link to the feedback form, which is also linked from the homepage:
 
-```
+``` css
 <div class="nhsuk-phase-banner">
 <div class="nhsuk-width-container style_inner">
 <span class="nhsuk-u-font-size-14">
@@ -188,7 +188,7 @@ This plugin was a quick concept demonstrator and is limited because:
 
 ### Custom CSS
 
-The Nightingale theme CSS can be customised by using its ‘Additional CSS’ functionality (Appearance > Customise > Additional CSS). Custom CSS was added to make the appearance of FacetWP facets, phase banner, sidebar widgets consistent with the NHS design system, and add a height-adjustable <hr> to match NHS Standards Directory (see Appendix A – custom CSS)
+The Nightingale theme CSS can be customised by using its ‘Additional CSS’ functionality (Appearance > Customise > Additional CSS). Custom CSS was added to make the appearance of FacetWP facets, phase banner, sidebar widgets consistent with the NHS design system, and add a height-adjustable `<hr>` to match NHS Standards Directory (see Appendix A – custom CSS)
 
 ## Populating capabilities, user stories and standards
 
@@ -221,7 +221,7 @@ To re-import, go to Admin > All Import > Manage Imports. This shows a history of
 
 ### Non-WordPress platforms
 
-- Custom pages: Use the Excel files to import appl_capability, user_story and standard content, using your platform’s import capabilities. All other functionality in the Alpha is presentational and will be controlled by the new platform. Use the Alpha as a reference or user interface design specification.
+- Custom pages: Use the Excel files to import `appl_capability`, `user_story` and `standard` content, using your platform’s import capabilities. All other functionality in the Alpha is presentational and will be controlled by the new platform. Use the Alpha as a reference or user interface design specification.
 - Content pages: Admin > WP Export > New Export. Select post type ‘Pages’. Continue and configure advanced settings as needed. Save and run export, then choose your output format (csv, bundle, public URL for APIs, Zapier)
 
 ### WordPress
