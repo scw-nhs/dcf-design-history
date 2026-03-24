@@ -11,23 +11,23 @@ author: Application Capability Framework delivery team at SCW
 
 Version 4 of the prototype addressed some of the remaining [issues identified in user research](/sprint8/) to make sure this information service remains usable, useful and up-to-date. Discussions continued about handover formats and next steps. The team carried out an internal, informal self-assessment against the 17 NHS service standard points to decide if the prototype was ready for beta development on an appropriate platform:
 
-1. Understand users and their needs in the context of health and care - the alpha follows a [discovery](/discovery/) and the team has researched users, needs and scenarios (from frontline staff, teams maintaining EPRs and digital leaders).
-2. Work towards solving a whole problem for users - the alpha resolves key problems with the DCF (as a directory or information service) identified in discovery and provides foundational research for derived products (eg priority test scripts for EPR optimisation in a particular care setting or context) that will enable user-centred products and services to be easily developed
-3. Provide a joined up experience across all channels - although this is a digital information service, it provides a basis for products to be developed in digital and non-digital channels
-4. Make the service simple to use - this was a key focus of the team's 'test, learn, iterate' approach, and the design has changed considerably as a result of usability testing
-5. Make sure everyone can use the service - unusually for an alpha, the rapid prototype was reasonably accessible as it was built using the Nightingale theme but additional work at beta would be needed
-6. Create a team that includes multidisciplinary skills and perspectives - the alpha was developed by a multi-disciplinary team including UCD roles, BAs, Delivery, Technical and Product
-7. Use agile ways of working - the team worked in agile sprints and was able to pivot and reprofile in response to changing requirements or insights from research
-8. Iterate and improve frequently - the alpha prototype was built in a way that enabled it to be iterated and improved easily, with content being created from import scripts and custom code to avoid the need for manual editing
-9. Create a secure service which protects people's privacy - the prototype was password protected and the team had roles-based access permissions
-10. Define what success looks like and be open about how your service is performing - the alpha has full analytics capability and the team created target user journeys which can be used as a basis for analytics at beta
-11. Choose the right tools and technology - the team [explained its choice of WordPress](/sprint1/) and the alpha has been designed to be platform-agnostic, ie easily replatformed
-12. Make new source code open - the team shared its approach and the various ways it extended WordPress, including with the NHS Nightingale community of practice
-13. Use and contribute to open standards, common components and patterns - the team has used NHS frontend design patterns and components, via Nightingale and custom css, aiming for consistency with similar information services like [the NHS Standards Directory](https://standards.nhs.uk/) which have been extensively tested with users
-14. Operate a reliable service - hosting and downtime are less of a concern for the alpha but the WordPress site uses caching and indexing to ensure good performance
-15. Support a culture of care - the team carried out research in a range of care settings with people using and maintaining EPRs and took a participatory co-design approach to stakeholder engagement
-16. Make your service clinically safe - whilst the alpha would not be used in direct care, content for specific care settings was developed with clinical input from the outset
-17. Make your service interoperable - WordPress has APIs and can connect to other services, but as a directory of EPR application capabilities it is aligned to the OAM and therefore supports the wider interoperability agenda
+1. **Understand users and their needs in the context of health and care** - the alpha follows a [discovery](/discovery/) and the team has researched users, needs and scenarios (from frontline staff, teams maintaining EPRs and digital leaders).
+2. **Work towards solving a whole problem for users** - the alpha resolves key problems with the DCF (as a directory or information service) identified in discovery and provides foundational research for derived products (eg priority test scripts for EPR optimisation in a particular care setting or context) that will enable user-centred products and services to be easily developed
+3. **Provide a joined up experience across all channels** - although this is a digital information service, it provides a basis for products to be developed in digital and non-digital channels
+4. **Make the service simple to use** - this was a key focus of the team's 'test, learn, iterate' approach, and the design has changed considerably as a result of usability testing
+5. **Make sure everyone can use the service** - unusually for an alpha, the rapid prototype was reasonably accessible as it was built using the Nightingale theme but additional work at beta would be needed
+6. **Create a team that includes multidisciplinary skills and perspectives** - the alpha was developed by a multi-disciplinary team including UCD roles, BAs, Delivery, Technical and Product
+7. **Use agile ways of working** - the team worked in agile sprints and was able to pivot and reprofile in response to changing requirements or insights from research
+8. **Iterate and improve frequently** - the alpha prototype was built in a way that enabled it to be iterated and improved easily, with content being created from import scripts and custom code to avoid the need for manual editing
+9. **Create a secure service which protects people's privacy** - the prototype was password protected and the team had roles-based access permissions
+10. **Define what success looks like and be open about how your service is performing** - the alpha has full analytics capability and the team created target user journeys which can be used as a basis for analytics at beta
+11. **Choose the right tools and technology** - the team [explained its choice of WordPress](/sprint1/) and the alpha has been designed to be platform-agnostic, ie easily replatformed. The team has shared its approach to using WordPress as a rapid prototyping tool with the Nightingale theme developers and community of practice
+12. **Make new source code open** - the team shared its approach and the various ways it extended WordPress, including with the NHS Nightingale community of practice
+13. **Use and contribute to open standards, common components and patterns** - the team has used NHS frontend design patterns and components, via Nightingale and custom css, aiming for consistency with similar information services like [the NHS Standards Directory](https://standards.nhs.uk/) which have been extensively tested with users
+14. **Operate a reliable service** - hosting and downtime are less of a concern for the alpha but the WordPress site uses caching and indexing to ensure good performance
+15. **Support a culture of care** - the team carried out research in a range of care settings with people using and maintaining EPRs and took a participatory co-design approach to stakeholder engagement
+16. **Make your service clinically safe** - whilst the alpha would not be used in direct care, content for specific care settings was developed with clinical input from the outset
+17. **Make your service interoperable** - WordPress has APIs and can connect to other services, but as a directory of EPR application capabilities it is aligned to the OAM and therefore supports the wider interoperability agenda
 
 Overall, the team felt comfortable that it would be able to tell its story well at assessment if required. 
 
