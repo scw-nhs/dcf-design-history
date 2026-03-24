@@ -9,28 +9,9 @@ author: Application Capability Framework delivery team at SCW
 
 ## History
 
-The alpha prototype is built to address user pain points and unmet needs identified by a discovery into the current Digital Capabilities Framework (DCF) that took place in early 2025. This showed, broadly that work was needed to make DCF more usable, useful and up-to-date.
+The alpha prototype is built to address user pain points and unmet needs identified by a discovery into the current Digital Capabilities Framework (DCF) that took place in early 2025. The [discovery recommendations](/discovery) showed, broadly that work was needed to make DCF more usable, useful and up-to-date. 
 
-| Recommendation | Makes it more… |
-| --- | --- |
-| Make DCF fully open (no password) and accessible | Usable, Useful |
-| Simple, clear navigation that allows people to drill down | Usable |
-| Improve guidance and resolve composite statements | Usable, Useful |
-| Focus on core capabilities | Usable, Useful |
-| Separate DCF from the products based on it | Usable |
-| Create a logical information architecture and search function | Usable |
-| Review taxonomy, consider an ontology | Usable |
-| Create clear guidance on DCF’s purpose | Usable, Useful |
-| Resolve inconsistent language in labelling and guidance | Usable, Useful |
-| Consider renaming DCF (following further research) | Usable |
-| Review gaps, conduct deep dives, consider public roadmap | Useful, Up-to-date |
-| Create guidance on using DCF to hold suppliers to account | Useful |
-| Create a comparison matrix for DMA, WGLL, DCF, HIMSS | Useful |
-| Create derived products for benchmarking and improvement | Useful |
-| Review how DCF is updated and changes communicated | Up-to-date |
-| Ensure versioning is sufficiently detailed and history recorded | Up-to-date, Useful |
-
-The DCF itself replaced the ‘Minimum Digital Foundations’ which were developed to support central funding for Trusts to procure EPR systems and digitise patient records. Capabilities have status - ‘Core’ (essential/minimum), ‘Transformation’ and ‘Innovation’. Typically funding was contingent on delivery of ‘core’ capabilities.
+The DCF itself replaced the ‘Minimum Digital Foundations’, a framework originally developed to support central funding for Trusts to procure EPR systems and digitise patient records. Capabilities have status - ‘Core’ (essential/minimum), ‘Transformation’ and ‘Innovation’. Typically central funding for EPR procurement was contingent on the chosen solution being able to deliver ‘core’ capabilities.
 
 ### Service users and needs
 
@@ -41,8 +22,6 @@ The service is built to meet the needs of CIOs, CTOs, digital transformation lea
 The service is an NHS-branded browser-based information service. It uses design patterns and approaches consistent with the  and similar services. It replaces several disparate platforms (FutureNHS, Confluence etc).
 
 It provides a curated list of all application capabilities for electronic patient records (EPRs) in secondary care settings (acute, maternity, mental health, community and ambulance). Other application types and care settings may be added over time.
-
-The  documents how the service was developed and iterated in line with user research. It also includes technical downloads.
 
 The alpha service presents as a website with a simple information architecture:
 
