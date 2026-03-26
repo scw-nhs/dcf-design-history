@@ -164,7 +164,7 @@ A prototype self-assessment tool was developed to allow Trusts to self-assess pr
 - a dashboard which showed progress
 - the option for users to download their results in Excel
 
-The tool had 3 standard pages, each with a shortcode created by the custom plugin.
+The tool had 3 standard pages, each with a shortcode created by the custom plugin. [Read the technical documentation](/capability-self-assessment-workflow/) for the prototype application capability self-assessment tool.
 
 #### 1. Assessment Dashboard
 - Shows your organisation details and 8 capability groups.
