@@ -37,3 +37,5 @@ The Excel spreadsheets are not consistently formatted, so the team designed a pr
 ## Website phase banner
 
 The team considered if the prototype website needed to be labelled as a prototype. It currently isn't because it requires password access, but the Nightingale theme doesn't support a phase banner or similar approach so this could be a future coding requirement. However, previous [research on NHS services suggests that phase banners can be confusing for users](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/89). The team decided to avoid using phase banners.
+
+_Update: in [Sprint 9](/sprint9), NHSE asked the team to provide a feedback form linked from a phase banner, as the alpha would be kept available from April until a decision was made on next steps and funding. The team coded an NHS style phase banner based on the NHS Standards Directory's beta banner, with a link to a Gravity Forms feedback form. [Read the documentation](/alpha-prototype-documentation/) for the approach and code._
