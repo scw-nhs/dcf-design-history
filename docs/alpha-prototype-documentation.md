@@ -45,7 +45,7 @@ In user research with the Alpha prototype, users consistently expressed a need f
 
 ### Service description
 
-The service is an NHS-branded browser-based information service. It uses design patterns and approaches consistent with the  and similar services. It replaces several disparate platforms (FutureNHS, Confluence etc).
+The service is an NHS-branded browser-based information service. It uses 'Directory' design patterns and approaches consistent with the [NHS Standards directory](https://standards.nhs.uk/) and similar services. It replaces several disparate platforms (FutureNHS, Confluence etc).
 
 It provides a curated list of all application capabilities for electronic patient records (EPRs) in secondary care settings (acute, maternity, mental health, community and ambulance). Other application types and care settings may be added over time.
 
