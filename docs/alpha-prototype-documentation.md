@@ -17,6 +17,32 @@ The DCF itself replaced the ‘Minimum Digital Foundations’, a framework origi
 
 The service is built to meet the needs of CIOs, CTOs, digital transformation leads, IT managers, procurement professionals and other user groups identified through research and stakeholder engagement. Additionally, it is also used by NHSE as foundational information for monitoring and assessment tools.
 
+The discovery research identified three key use cases of the DCF:
+1.	Procurement (the original use case of the DCF) 
+2.	Internal benchmarking and assessment
+3.	Strategic planning for system improvement
+
+Additional use cases identified in alpha research included:
+
+4. Optimising existing EPRs - focusing in on specific patient-focused topics or service areas
+5. Merging Trusts - understanding whether a merger could see EPRs converge or be replaced by another solution
+6. Comparing suppliers' capabilities - what is available now, partially available, planned or unsupported in each product
+7. Maximising value delivered - comparative view of similar Trust types using the same EPR
+
+The discovery identified common user needs, irrespective of DCF’s users and use cases:
+* Clear guidance on what the DCF is and how it can be used
+* Sufficient detail to understand DCF capabilities
+* An iterative, up-to-date DCF
+* An easy-to-navigate DCF
+* An easy-to-access DCF
+
+In user research with the Alpha prototype, users consistently expressed a need for:
+*	a single, authoritative source of digital capability standards 
+*	tools to support benchmarking, planning, and decision-making 
+*	improved usability aligned to real-world workflows 
+
+> Instead of EPR we need to start using ‘Digital Capabilities for Frontline Care’ because that then helps us understand that you're not buying an EPR anymore, you're buying the digital capability for frontline care delivery. _- Stakeholder, Frontline Digitisation (Stakeholder Workshop)_
+
 ### Service description
 
 The service is an NHS-branded browser-based information service. It uses design patterns and approaches consistent with the  and similar services. It replaces several disparate platforms (FutureNHS, Confluence etc).
