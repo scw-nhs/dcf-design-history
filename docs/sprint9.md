@@ -31,6 +31,8 @@ Version 4 of the prototype addressed some of the remaining [issues identified in
 
 Overall, the team felt comfortable that it would be able to tell its story well at assessment if required. 
 
+![Final alpha homepage](/assets/images/dcf-alpha-final-homepage.png "Final alpha homepage")
+
 ## Developing derived products
 
 Following a meeting with the Frontline digitisation team on 9 March, the team sent through the Excel spreadsheet tool they had developed for Trusts to self-assess progress against Frontline digitisation requirements (following investment). This tool was based on the Excel version of DCF and was widely used. Functionality within the spreadsheet allowed users to select their trust from a drop-down list and automatically see all relevant DCF capabilities for their care setting (eg Acute+Maternity) with a series of questions (some of which were conditional, ie may or may not need to be completed based on previous responses).
